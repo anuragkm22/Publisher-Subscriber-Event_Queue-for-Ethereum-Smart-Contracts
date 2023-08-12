@@ -60,5 +60,6 @@ as the '{url}/rest/api/publish?' which we got from ngrok. (Referf to Offical Doc
 10.Transact "getRequest" Method and wait for few seconds and call "getMessage" to fetch output of the request. <br />
 
 11.See the output of postRequest in postResponse variable and getRequest in getResponse variable. <br />
+
 12.Reset Contract using reset method and use again with new Parameters. <br />
 
